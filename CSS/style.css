@@ -46,7 +46,7 @@ ul.top_menu {
   float: right;
 }
 .send-button {
-  background-color: skyblue;
+  
   height: 6rem;
   }
 
@@ -79,7 +79,11 @@ ul.top_menu {
     opacity: 0.6;
   }
 
-  
+  .send-button :hover{
+    opacity: 0.6;
+  }
+
+
   .footer{
   width: 64%;
   height: 100px;
